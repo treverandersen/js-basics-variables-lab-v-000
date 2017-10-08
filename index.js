@@ -2,4 +2,4 @@
 let companyName = 'Scuber';
 let mostProfitableNeighborhood = 'Chelsea';
 
-const companyCeo = 'Susan Smith';
+var companyCeo = 'Susan Smith';
